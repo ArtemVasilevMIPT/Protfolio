@@ -1,6 +1,6 @@
 # Protfolio
 # Обо мне
-Студент 1 курса МФТИ
+Студент 2 курса
 # Образование
 Институт: МФТИ
 
@@ -11,3 +11,6 @@
 * [Игра-стратегия](https://github.com/ArtemVasilevMIPT/GameProject)
 * [Генератор лабиринтов](https://github.com/ArtemVasilevMIPT/SimpleMazeGeneration)
 * [Распознавание лиц на видео](https://github.com/ArtemVasilevMIPT/SimpleFaceDetection)
+* [Deque](https://github.com/ArtemVasilevMIPT/deque)
+* [Unordered map](https://github.com/ArtemVasilevMIPT/unordered_map)
+* [Алгоритм Эрли](https://github.com/ArtemVasilevMIPT/EarleyAlgorithm)
