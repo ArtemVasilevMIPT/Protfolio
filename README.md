@@ -13,11 +13,13 @@
 # Навыки
 * C++
 * Python
+* Go
 * Rust
 * JavaScript
 * ReactJS
 * Django
 * PostgreSQL
+* Git
 
 # Мои проекты
 * [Игра-стратегия](https://github.com/ArtemVasilevMIPT/GameProject)
